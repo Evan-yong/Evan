@@ -1,6 +1,0 @@
-[2018-07-18 14:43:58,915]-logger.py]-INFO:----test start----
-[2018-07-18 14:43:58,944]-logger.py]-INFO:--input password--
-[2018-07-18 14:43:58,944]-logger.py]-WARNING:---test end---
-[2018-07-18 14:44:54,339]-logger.py]-INFO:----test start----
-[2018-07-18 14:44:54,375]-logger.py]-INFO:--input password--
-[2018-07-18 14:44:54,375]-logger.py]-WARNING:---test end---
